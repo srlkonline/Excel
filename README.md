@@ -1,2 +1,1 @@
-# Data Cleaning [US Presidents]
-# Excel Project [Bike Sales Dashboard]
+# Data Cleaning and Excel Dasboards
